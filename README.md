@@ -42,20 +42,7 @@ https://www.tripadvisor.com/AttractionProductDetail-g294317-d11483317-Machu_Picc
 
 There are cases where the review count from Part 1 does not match the number of reviews available in Part 2, because TripAdvisor is including reviews from Viator in Part 1.  See the "Read 45 more reviews on Viator" link.  Capturing Viator related reviews is outside the scope of this exercise.
 
-![Reviews](https://s3.amazonaws.com/srs-interview/tripattraction/reviews.png)
-
 
 Product code is located at the bottom of the right sidebar.
 
-![Questions](https://s3.amazonaws.com/srs-interview/tripattraction/questions.png)
 
-
-**Deliverables**
-
-+ Commit your code to this GitHub repository
-+ Output the data into CSV files for each part of the exercises – listing_tours and listing_reviews.
-+ Write a small test suite to unit test functions where appropriate
-+ Explain how you would structure the solution if there are over 1M attractions to capture.
-
-
-Please contact us if you have any questions.
